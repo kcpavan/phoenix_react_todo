@@ -1,4 +1,5 @@
 # PhoenixReactTodo
+Phoenix React js todo app
 
 To start your Phoenix app:
 
