@@ -1,0 +1,21 @@
+{
+  "name": "phoenix_react_todo",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kcpavan/phoenix_react_todo",
+  "authors": [
+    "kcpavan <mail2kcpavan@gmail.com>"
+  ],
+  "main": "app",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}
